@@ -2,7 +2,7 @@ Albert's dataset [WWW'16] : http://web.cse.ohio-state.edu/~liangji/StackOverFlow
 
 Some other great public sources which need to be looked at for the best example:
 
-
+http://km.aifb.kit.edu/projects/btc-2012/[BTC challenge graphs - not sure whether they are heterogeneous]
 http://dblp.l3s.de/dblp++.php[Faceted DBLP]
 http://mlg.ucd.ie/networks/ [https://www.hindawi.com/journals/mpe/2016/5750645/ - used this data set]
 http://link.springer.com/chapter/10.1007/978-3-642-53974-9_11 [For synthetic heterogeneous graphs]
