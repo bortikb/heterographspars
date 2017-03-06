@@ -3,7 +3,9 @@ Excellent Survey on Community Detection : https://arxiv.org/pdf/0906.0612.pdf [C
 Albert's dataset [WWW'16] : http://web.cse.ohio-state.edu/~liangji/StackOverFlow.html
 
 Some other great public sources which need to be looked at for the best example:
-
+http://vladowiki.fmf.uni-lj.si/doku.php?id=pajek:data:urls:index
+https://archive.ics.uci.edu/ml/datasets.html
+http://www.cise.ufl.edu/research/sparse/matrices/list_by_id.html
 http://km.aifb.kit.edu/projects/btc-2012/[BTC challenge graphs - not sure whether they are heterogeneous]
 http://dblp.l3s.de/dblp++.php[Faceted DBLP]
 http://mlg.ucd.ie/networks/ [https://www.hindawi.com/journals/mpe/2016/5750645/ - used this data set]
@@ -13,3 +15,5 @@ http://www.graph500.org/ [For Very large scale graphs]
 https://networkdata.ics.uci.edu/index.php
 http://clds.sdsc.edu/sites/clds.sdsc.edu/files/wbdb2012/presentations/WBDB2012Presentation24Gupta.pdf
 https://cs.stanford.edu/people/jure/pubs/cesna-icdm13.pdf [Community detection in Graphs with Node Attributes]
+
+
