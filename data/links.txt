@@ -1,7 +1,6 @@
-Excellent Survey on Community Detection : https://arxiv.org/pdf/0906.0612.pdf [Contains very useful links besides comprehensive material]
-
 Albert's dataset [WWW'16] : http://web.cse.ohio-state.edu/~liangji/StackOverFlow.html
-
+Google Knowledge Graph : https://developers.google.com/knowledge-graph/
+GDELT Project : http://www.gdeltproject.org/data.html#rawdatafiles
 Potential Knowledge Graph : https://github.com/arongdari/kg-data
 
 Some other great public sources which need to be looked at for the best example:
@@ -19,3 +18,4 @@ http://clds.sdsc.edu/sites/clds.sdsc.edu/files/wbdb2012/presentations/WBDB2012Pr
 https://cs.stanford.edu/people/jure/pubs/cesna-icdm13.pdf [Community detection in Graphs with Node Attributes]
 
 
+Excellent Survey on Community Detection : https://arxiv.org/pdf/0906.0612.pdf [Contains very useful links besides comprehensive material]
