@@ -1,5 +1,6 @@
 Albert's dataset [WWW'16] : http://web.cse.ohio-state.edu/~liangji/StackOverFlow.html
 Google Knowledge Graph : https://developers.google.com/knowledge-graph/
+Google KG Presentation : http://commondatastorage.googleapis.com/io-2013/presentations/1400%20-%20From%20Structured%20Data%20to%20the%20Knowledge%20Graph.pdf
 GDELT Project : http://www.gdeltproject.org/data.html#rawdatafiles
 Potential Knowledge Graph : https://github.com/arongdari/kg-data
 
