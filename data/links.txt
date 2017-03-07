@@ -5,6 +5,9 @@ GDELT Project : http://www.gdeltproject.org/data.html#rawdatafiles
 Potential Knowledge Graph : https://github.com/arongdari/kg-data
 
 Some other great public sources which need to be looked at for the best example:
+http://snap.stanford.edu/data
+http://konect.uni-koblenz.de/
+http://www-personal.umich.edu/~mejn/netdata/
 http://vladowiki.fmf.uni-lj.si/doku.php?id=pajek:data:urls:index
 https://archive.ics.uci.edu/ml/datasets.html
 http://www.cise.ufl.edu/research/sparse/matrices/list_by_id.html
@@ -17,6 +20,7 @@ http://www.graph500.org/ [For Very large scale graphs]
 https://networkdata.ics.uci.edu/index.php
 http://clds.sdsc.edu/sites/clds.sdsc.edu/files/wbdb2012/presentations/WBDB2012Presentation24Gupta.pdf
 https://cs.stanford.edu/people/jure/pubs/cesna-icdm13.pdf [Community detection in Graphs with Node Attributes]
-
+http://projects.csail.mit.edu/dnd/ [large dynamic attributed graph - included Google+ user]
+http://www.sociopatterns.org/datasets/ [Social network based data set]
 
 Excellent Survey on Community Detection : https://arxiv.org/pdf/0906.0612.pdf [Contains very useful links besides comprehensive material]
