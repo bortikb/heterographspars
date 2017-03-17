@@ -24,3 +24,5 @@ http://projects.csail.mit.edu/dnd/ [large dynamic attributed graph - included Go
 http://www.sociopatterns.org/datasets/ [Social network based data set]
 
 Excellent Survey on Community Detection : https://arxiv.org/pdf/0906.0612.pdf [Contains very useful links besides comprehensive material]
+
+[Microsoft - A Reading Comprehension Dataset for the Artificial Intelligence research community] http://www.msmarco.org/
