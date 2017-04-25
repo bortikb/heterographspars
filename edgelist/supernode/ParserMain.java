@@ -1,4 +1,3 @@
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileNotFoundException;
@@ -64,6 +63,7 @@ public class ParserMain {
 
 					// System.out.print("\nReading line: " + line);
 
+					try{
 					fieldValueSet = new HashSet<String>();
 
 					String[] fieldValueArray = splitBy(line, fieldSeparator);
@@ -91,6 +91,10 @@ public class ParserMain {
 					}
 
 					filedValueContainerVector.add(fieldValueSet);
+				
+					}catch(Exception e){
+						continue;
+					}
 				}
 				br.close();
 			} catch (FileNotFoundException e) {
