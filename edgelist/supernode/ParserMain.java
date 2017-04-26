@@ -48,7 +48,7 @@ public class ParserMain {
 		disallowedCommonElements.add("NULL");
 		disallowedCommonElements.add("NULL\"");
 
-		for (i = 0; i < 469; i++) {
+		for (i = 192; i < 469; i++) {
 
 			Vector<Set<String>> filedValueContainerVector = new Vector<Set<String>>();
 			Set<String> fieldValueSet = new HashSet<String>();
